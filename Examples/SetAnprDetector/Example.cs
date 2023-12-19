@@ -3,7 +3,7 @@ using Harbard.Api;
 
 namespace Example
 {
-    class SetDetectorExample
+    class SetAnprDetectorExample
     {
         static int Main(string[] args)
         {
