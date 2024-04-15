@@ -7,7 +7,7 @@ Provides high level classes and functions indentical to the ones defined in [Har
 - **Einar Gen 2** from v1.3.0
 - **Carmen Box/Nano** from v1.4.0
 - **Enforce Box/Nano** from v1.4.0
-- **MicroCAM** Gen 2 from v1.0.0
+- **Lynet** Gen 2 from v1.0.0
 
 ## Using SDK
 In order to use API functions one must aquire a device session through one of the following classes depending on the level of abstraction required.
